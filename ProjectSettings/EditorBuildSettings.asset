@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scence/Menu.unity
+    guid: c67c5c808d4974d3bb521b203a50d649
+  - enabled: 1
+    path: Assets/scence/Main Level.unity
+    guid: 959ed41a86f6e462eb61fbea827f6603
+  - enabled: 1
+    path: Assets/scence/tutor.unity
+    guid: 6ab7b38cdd8dc4c309c7af62a8fa7cf8
+  - enabled: 1
+    path: Assets/scence/next.unity
+    guid: c3fead6f07afe4d39b81ee8e475ed90d
+  - enabled: 1
+    path: Assets/scence/lose.unity
+    guid: 61f532e39bd9746afbc28ebb85359966
+  - enabled: 1
+    path: Assets/scence/Option.unity
+    guid: 2dcc13b8eebf94d20b029fe695c85e1d
+  - enabled: 1
+    path: Assets/scence/credit.unity
+    guid: 0e485daeeb56e4f5a9fb70c933428f71
+  - enabled: 1
+    path: Assets/scence/aaa.unity
+    guid: 427e51606e5754d9c98020d2208be2c8

@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveScence.cs">
+    <Files>
+      <File FileName="Assets/Option.cs" Line="17" Column="31" />
+      <File FileName="Assets/PlayerHealth.cs" Line="48" Column="28" />
+      <File FileName="Assets/MainMenu.cs" Line="42" Column="46" />
+      <File FileName="Assets/MoveScence.cs" Line="5" Column="1" />
+      <File FileName="Assets/pistol.cs" Line="77" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
